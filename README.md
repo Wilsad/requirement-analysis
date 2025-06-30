@@ -1,1 +1,2 @@
-# requirement-analysis
+# Requirement Analysis in Software Development
+📌 Requirement Analysis in software development is the process of defining, analysing, and documenting what a software system should do and what constraints it must operate under. It's essentially the blueprinting stage before any code is written. This directory is a blueprint for a detailed requirement analysis phase for a booking management system. This project simulates a real-world development scenario, emphasising clarity, precision, and structure in defining requirements to set the stage for successful project execution
