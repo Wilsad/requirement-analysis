@@ -80,7 +80,8 @@ Use case diagrams are visual representations that show how different users (acto
 
 Diagram:
 
-![alx-booking-uc](https://github.com/user-attachments/assets/b980791c-96f5-456e-a6d8-dc126ae4c8b7)
+![alx-booking-uc](./assets/alx-booking-uc.png)
+
 
 
 
