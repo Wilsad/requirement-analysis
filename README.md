@@ -83,6 +83,26 @@ Diagram:
 ![alx-booking-uc](./alx-booking-uc.png)
 
 
+## Acceptance Criteria
+Acceptance Criteria are clear, specific, and testable conditions that a software product must meet to be accepted by a stakeholder or product owner. They define “completion” for a given requirement or user story.
+
+### Example: Acceptance Criteria for Checkout Feature (Booking System)
+Here’s how we might define it:
+User Story
+“As a guest, I want to check out securely with confirmation for my hotel booking.”
+
+🧾 Acceptance Criteria
+-  The guest must be logged in to initiate checkout.
+-  Selected room details and price must be visible before payment.
+-  Guests must choose a payment method (credit card, mobile money, or digital wallet).
+-  Payment details must be validated (invalid card = error message).
+-  Confirmation screen displayed after successful payment.
+-  Email confirmation is sent to the guest within 1 minute.
+-  If payment fails, the system does not reserve the room, and the user is notified.
+-  Checkout should be responsive and work across major browsers.
+
+
+
 
 
 
