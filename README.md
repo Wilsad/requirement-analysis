@@ -57,6 +57,19 @@ Before design and development begin, you confirm that the requirements are valid
 - Prevents costly mistakes by catching misinterpretations early.
 - Builds confidence among clients and teams that you’re on track.
 
+## Types of Requirements
+
+### 📊 Hotel Booking Platform Requirement
+
+| Subsection                 | Functional Requirements                                                                                                             | Non-functional Requirements                                                                                                                      |
+|---------------------------|-------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|
+| **1. User Booking Experience** | - Search hotels by location, date, amenities, etc.  <br> - Check real-time room availability  <br> - Book rooms with guest details  <br> - Process payments securely  <br> - Send booking confirmation via email/SMS | - Search results load within 2 seconds  <br> - Handles thousands of users during peak times  <br> - Secures payments  <br> - Mobile-friendly design  <br> - 99.9% uptime |
+| **2. Hotel Management Operations** | - Manage room inventory (add/edit/delete rooms)  <br> - View and update reservations  <br> - Set dynamic pricing/promotions  <br> - Track guest check-in/out  <br> - Respond to guest reviews | - Modular backend for easy updates  <br> - Data stays accurate across dashboards  <br> - Action logs for audit trails  <br> - Multi-language and currency support  <br> - Instant reflection of staff changes |
+
+
+
+
+
 
 
 
