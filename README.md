@@ -10,3 +10,10 @@ Here’s why it’s essential in the SDLC:
 - Provides clear benchmarks for testing and validation
 - Enhances product quality by aligning development with real-world use cases
 
+## Why is Requirement Analysis Important?
+🧠 Key Reasons
+- Clarify what the client or end-user wants
+- Convert vague ideas into structured, testable requirements
+- Lay a concrete foundation for development and testing
+- Avoid miscommunication and scope creep
+
