@@ -67,11 +67,20 @@ Before design and development begin, you confirm that the requirements are valid
 | **2. Hotel Management Operations** | - Manage room inventory (add/edit/delete rooms)  <br> - View and update reservations  <br> - Set dynamic pricing/promotions  <br> - Track guest check-in/out  <br> - Respond to guest reviews | - Modular backend for easy updates  <br> - Data stays accurate across dashboards  <br> - Action logs for audit trails  <br> - Multi-language and currency support  <br> - Instant reflection of staff changes |
 
 
+## Use Case Diagrams
 
+Use case diagrams are visual representations that show how different users (actors) interact with the system to achieve specific goals (use cases).
 
+### Benefits Include
+- User-Centric Design: Helps teams focus on what users need from the system.
+- Clear Communication: Bridges the gap between technical and non-technical stakeholders.
+- Scope Definition: Outlines what’s inside and outside the system.
+- Foundation for Development: Guides UI/UX design, testing, and feature planning.
+- Early Error Detection: Identifies missing or conflicting requirements early in the SDLC.
 
+Diagram:
 
-
+![alx-booking-uc](https://github.com/user-attachments/assets/b980791c-96f5-456e-a6d8-dc126ae4c8b7)
 
 
 
